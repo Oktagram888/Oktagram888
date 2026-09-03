@@ -1,6 +1,6 @@
 # Hey, I'm Fairuz 👋
 
-> *Freelance Developer • Building things, one commit at a time*
+> *Solo GameDev*
 
 ---
 
